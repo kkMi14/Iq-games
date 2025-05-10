@@ -1,1 +1,1 @@
-# Iq-games
+This is an android application This repository contains the privacy policy for the Iq game mobile application, which stores all user data locally on the device. The privacy policy outlines what information is collected, where it's stored, our no-sharing policy with third parties, and user rights for managing their data.# Iq-games
